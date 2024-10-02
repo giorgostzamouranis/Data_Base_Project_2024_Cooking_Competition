@@ -1,1 +1,7 @@
+In this project, we developed a database in MySQL for a cooking competition. The database manages entities such as ingredients, recipes from various cuisines, chefs, judges, and other relevant features. Additionally, we implemented a lottery system for assigning episodes, including the random selection of recipes, chefs, and judges for each episode, as well as the random scoring and selection of winners. A key requirement was to ensure that the same chef, recipe, or judge did not participate in more than three consecutive episodes.
 
+To meet the project requirements, we generated a large set of dummy data, including over 50 chefs, 50 recipes, and 100 ingredients, leveraging tools like ChatGPT for assistance. The competition was simulated over a two-year period using the same set of chefs and recipes. We have provided the necessary DDL, DML, and SQL query files, which also include optimized indexes for more efficient query performance.
+
+This project was created for the "Databases" course at the School of Electrical and Computer Engineering, NTUA. The purpose of this project is to showcase our approach to the given problem set, and it is not intended as personal research. For more detailed descriptions of the tasks, please refer to the project's prompt (provided in Greek).
+
+Special thanks to my fellow student and collaborator, Nikolaos Katsaidonis (https://github.com/NikosK10), for his partnership in this succesfull project.
